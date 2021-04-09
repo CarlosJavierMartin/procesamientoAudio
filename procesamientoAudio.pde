@@ -282,7 +282,7 @@ void displayMenu(){
       textAlign(CENTER);
       text("Pulso",700, 50);
       text("Sinusoidal",700, 75);
-      text("Cierra",700, 100);
+      text("Sierra",700, 100);
       text("Cuadratico",700, 125);
       text("Triangular",700, 150);
      break;
@@ -296,7 +296,7 @@ void displayMenu(){
       textAlign(CENTER);
       text("Pulso",700, 50);
       text("Sinusoidal",700, 75);
-      text("Cierra",700, 100);
+      text("Sierra",700, 100);
       text("Cuadratico",700, 125);
       text("Triangular",700, 150);
        
@@ -311,7 +311,7 @@ void displayMenu(){
       textAlign(CENTER);
       text("Pulso",700, 50);
       text("Sinusoidal",700, 75);
-      text("Cierra",700, 100);
+      text("Sierra",700, 100);
       text("Cuadratico",700, 125);
       text("Triangular",700, 150);
        
@@ -326,7 +326,7 @@ void displayMenu(){
       textAlign(CENTER);
       text("Pulso",700, 50);
       text("Sinusoidal",700, 75);
-      text("Cierra",700, 100);
+      text("Sierra",700, 100);
       text("Cuadratico",700, 125);
       text("Triangular",700, 150);
       
@@ -341,7 +341,7 @@ void displayMenu(){
       textAlign(CENTER);
       text("Pulso",700, 50);
       text("Sinusoidal",700, 75);
-      text("Cierra",700, 100);
+      text("Sierra",700, 100);
       text("Cuadratico",700, 125);
       text("Triangular",700, 150);
        
@@ -386,7 +386,7 @@ void youWin(){
   displayMenu();
   textSize(32);
   fill(0);
-  text("Haz ganado",400,165);
+  text("Has ganado",400,135);
 }
 
 void youLose(){
@@ -394,7 +394,7 @@ void youLose(){
   displayMenu();
   textSize(32);
   fill(0);
-  text("Haz perdido",400,165);
+  text("Has perdido",400,135);
 }
 
 void reset(){
